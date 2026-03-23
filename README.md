@@ -342,7 +342,7 @@ The backtesting engine provides comprehensive quantitative analysis:
 - **Beta**: Portfolio sensitivity to market
 - **Tracking Error**: Standard deviation of active returns
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these guidelines:
 
@@ -386,37 +386,37 @@ class MyCustomStrategy(BaseStrategy):
 
 ## 📋 Roadmap
 
-### Completed Features ✅
-- ✅ Modular strategy framework
-- ✅ ML-based stock selection strategies
-- ✅ Professional backtesting system (powered by bt library)
-- ✅ Alpaca live trading integration
-- ✅ Multi-source data support (Yahoo/FMP/WRDS)
-- ✅ Comprehensive risk management system
-- ✅ Performance analysis and reporting
+### Completed Features 
+-  Modular strategy framework
+-  ML-based stock selection strategies
+-  Professional backtesting system (powered by bt library)
+-  Alpaca live trading integration
+-  Multi-source data support (Yahoo/FMP/WRDS)
+-  Comprehensive risk management system
+-  Performance analysis and reporting
 
 ### Planned Enhancements 🚧
-- 🔄 Deep reinforcement learning strategies
-- 🔄 Alternative data integration
-- 🔄 Multi-asset support (crypto, futures)
-- 🔄 Advanced portfolio optimization algorithms
-- 🔄 Real-time alerting system
-- 🔄 Web visualization interface
-- 🔄 Docker containerization
+-  Deep reinforcement learning strategies
+-  Alternative data integration
+-  Multi-asset support (crypto, futures)
+-  Advanced portfolio optimization algorithms
+-  Real-time alerting system
+-  Web visualization interface
+-  Docker containerization
 
-## 📝 License
+##  License
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Important Disclaimer
+##  Important Disclaimer
 
-**⚠️ NOT FINANCIAL ADVICE**
+** NOT FINANCIAL ADVICE**
 
 This software is for **educational and research purposes only**.
 
 **Always consult with qualified financial professionals before making investment decisions. Past performance does not guarantee future results.**
 
-## 📚 References & Acknowledgments
+##  References & Acknowledgments
 
 ### Academic Papers
 - [Machine Learning for Stock Recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302088) - Machine learning approaches to stock selection
