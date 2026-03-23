@@ -25,14 +25,14 @@
 
 **A modern, modular quantitative trading platform built with Python, featuring machine learning strategies, professional backtesting, and live trading capabilities.**
 
-## 🚀 Key Features
+##  Key Features
 
-- **🤖 Strategy Framework**: Multiple quantitative strategies including ML-based stock selection
-- **📈 Risk Management**: Comprehensive risk controls and position limits
-- **💰 Live Trading**: Alpaca integration with paper and live trading support
-- **🔧 Modular Design**: Clean, extensible architecture following best practices
+- ** Strategy Framework**: Multiple quantitative strategies including ML-based stock selection
+- **Risk Management**: Comprehensive risk controls and position limits
+- ** Live Trading**: Alpaca integration with paper and live trading support
+- ** Modular Design**: Clean, extensible architecture following best practices
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 finrl-trading/
@@ -62,7 +62,7 @@ finrl-trading/
 └── setup.py           # Package installation
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -113,14 +113,14 @@ jupyter notebook examples/FinRL_Full_Workflow.ipynb
 ```
 
 **Tutorial Contents:**
-- ✅ S&P 500 components data acquisition
-- ✅ Fundamental and historical price data fetching
-- ✅ Machine learning stock selection strategy implementation
-- ✅ Professional backtesting (with VOO/QQQ benchmark comparison)
-- ✅ Alpaca Paper Trading execution
+-  S&P 500 components data acquisition
+-  Fundamental and historical price data fetching
+-  Machine learning stock selection strategy implementation
+-  Professional backtesting (with VOO/QQQ benchmark comparison)
+-  Alpaca Paper Trading execution
 
 
-## 📖 Usage Examples
+##  Usage Examples
 
 ### Data Acquisition
 
@@ -237,7 +237,7 @@ print(f"Orders placed: {len(result.orders_placed)}")
 print(f"Execution success: {result.success}")
 ```
 
-## 🎯 Core Components
+##  Core Components
 
 ### Data Layer (`src/data/`)
 - **Multi-Source Data Manager** (`data_fetcher.py`): Intelligent data source selection and management
@@ -275,7 +275,7 @@ print(f"Execution success: {result.success}")
 - **Centralized Management**: All settings in one place
 
 
-## 🔧 Configuration
+##  Configuration
 
 The platform uses **Pydantic-based settings** with environment variable support:
 
